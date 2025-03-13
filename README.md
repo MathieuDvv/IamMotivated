@@ -8,8 +8,7 @@ A powerful web application that helps users generate personalized motivation let
 - AI-powered letter generation using Claude and Deepseek
 - Customizable letter content and tone
 - Sentence-by-sentence editing
-- Export options (copy to clipboard, PDF, Word)
-- Email integration (premium feature)
+- Export options (copy to clipboard, PDF)
 
 ## Tech Stack
 
@@ -33,8 +32,8 @@ A powerful web application that helps users generate personalized motivation let
 
 - Node.js (v18 or higher)
 - npm or yarn
-- Claude API key
-- Deepseek API key
+- Claude API key (Optional if there is the other)
+- Deepseek API key (Optional if there is the other)
 
 ### Installation
 
