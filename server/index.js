@@ -1,7 +1,7 @@
 require('dotenv').config();
 const express = require('express');
 const cors = require('cors');
-const Anthropic = require('@anthropic-ai/sdk/index.mjs');
+const Anthropic = require('@anthropic-ai/sdk');
 const axios = require('axios');
 
 const app = express();
